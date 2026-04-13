@@ -1,6 +1,8 @@
-# Awesome Website Monitoring [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Website Monitoring [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Security Score](https://badge.rftmedia.com/badge/rftmedia.com.svg)](https://domain.rftmedia.com)
 
 > A curated list of tools, services, and resources for monitoring website health, uptime, performance, and security.
+
+**🛡️ Add a security badge to your repo:** [badge.rftmedia.com](https://badge.rftmedia.com)
 
 Whether you're a developer, DevOps engineer, or business owner, keeping your websites healthy is crucial. This list covers everything from simple uptime checks to comprehensive security monitoring.
 
